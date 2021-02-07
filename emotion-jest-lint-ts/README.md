@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped configured with ESLint, Prettier, Jest, RTL, TypeScript and Emotion.
 
-This boilerplate code was last edited on 2/7/21 by @chrstnfrrs.
+This boilerplate code was last edited on 2/7/21 by [@chrstnfrrs](https://github.com/chrstnfrrs).
 
 ## Get Started
 
