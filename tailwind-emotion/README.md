@@ -3,7 +3,7 @@
 This is a starter repo for tailwind and emotion. It contains the following pieces of tooling pre-setup:
 - TypeScript
 - Jest
-- React Testing Library and Extended DOM
+- React Testing Library and Jest DOM
 - ESLint with a pre-commit hook
 - Prettier with a pre-commit hook
 - Apollo Graphql
