@@ -26,6 +26,7 @@ module.exports = {
           'chance',
           '@testing-library/react',
           '@testing-library/jest-dom',
+          'tailwindcss',
         ],
       },
     ],
